@@ -3,7 +3,7 @@
 ## 💫 About Me
 🎓 CS + Math student at UIUC with a minor in Electrical Engineering | Expected May 2027  
 🔭 Currently working on Promo Pigeon, an automated sales platform for manufacturers | Former SWE Intern at PhinD Experts  
-📄 Check out my [Portfolio](https://www.aneeshganti.dev) to learn more about my work and experience.
+📄 Check out my [Portfolio](https://www.aneeshganti.dev) to learn more about my work and experience.  
 💬 Open to collaborations on applied ML, cloud infrastructure, and full-stack development projects
 
 ## ⚒️ Tech Stack
