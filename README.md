@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 🎓 CS + Math student at UIUC with a minor in Electrical Engineering | Expected May 2027  
-🔭 Currently working on Promo Pigeon, an automated sales platform for manufacturers | Former SWE Intern at PhinD Experts  
+🔭 Currently working on Promo Pigeon, an automated sales platform for manufacturers | SWE Intern at Brunswick Corporation  
 📄 Check out my [Portfolio](https://www.aneeshganti.dev) to learn more about my work and experience.  
 💬 Open to collaborations on applied ML, cloud infrastructure, and full-stack development projects
 
@@ -16,7 +16,6 @@
 
 ## 🏆 Highlights
 - 🥇 NASA Human Lander Challenge - Best Presentation Award ($1,200 prize)
-- 🤖 NVIDIA AI Agent Hackathon Lead Programmer
 - 🚀 Rocketry guidance systems with 10-ft accuracy at 75,000-ft altitude
 - 📊 Generated 90,000+ client leads with 93% contact success rate
 - ⚡ Improved ML model convergence by 38% through Python-to-C++ migration
