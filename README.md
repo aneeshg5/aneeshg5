@@ -10,8 +10,8 @@ Open to **Summer 2027 SWE / AI / ML internships**
 
 - 🏆 NASA Human Lander Challenge: Best Presentation Award, $1,200 prize over 30+ universities
 - 🚀 Selected for **iVenture Accelerator Cohort 12** at UIUC, building Promo Pigeon this summer
-- 📡 Decoded **70+ encrypted CAN signals** on marine embedded systems via Claude cryptanalysis research
-- 🔬 Built annotation-free instance segmentation and ViT-conditioned diffusion models for robot planning at UIUC Vision Lab
+- 📡 Real-world AI agent eval: used Claude to autonomously decode **70+ encrypted CAN signals** on live marine systems, exposing helm steering, throttle, and fuel vulnerabilities
+- 🔬 Developing annotation-free instance segmentation and ViT-conditioned diffusion models for robot motion planning at UIUC Vision Lab
 
 ---
 
@@ -19,7 +19,7 @@ Open to **Summer 2027 SWE / AI / ML internships**
 
 - **Brunswick Corporation:** Physics-informed propeller recommendation ML, CAN bus cryptanalysis on marine systems, and a TypeScript/Workbox PWA that cut on-water test analysis from 3 hours to <4s
 - **Promo Pigeon:** Gemini-powered AI agent generating product mockups from client emails (2 days to 60s), with spaCy/PyMuPDF document parsing and Dockerized artwork generation on AWS for 2,500+ daily proofs
-- **UIUC Vision & Learning Lab:** Annotation-free instance segmentation with DINOv2 + SAM2, ViT-conditioned diffusion for 17-second robot motion planning from RGB images
+- **UIUC Vision & Learning Lab:** Annotation-free instance segmentation with DINOv3 + SAM2, ViT-conditioned diffusion for 17-second robot motion planning from RGB images
 
 ---
 
