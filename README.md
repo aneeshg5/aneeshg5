@@ -11,7 +11,7 @@ Open to **Summer 2027 SWE / AI / ML internships**
 - 🏆 NASA Human Lander Challenge: Best Presentation Award, $1,200 prize over 30+ universities
 - 🚀 Selected for **iVenture Accelerator Cohort 12** at UIUC, building Promo Pigeon this summer
 - 📡 Decoded **70+ encrypted CAN signals** on marine embedded systems via Claude cryptanalysis research
-- 🔬 Developing annotation-free instance segmentation and ViT-conditioned diffusion models for robot motion planning at UIUC Vision Lab
+- 🔬 Built annotation-free instance segmentation and ViT-conditioned diffusion models for robot planning at UIUC Vision Lab
 
 ---
 
