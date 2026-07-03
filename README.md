@@ -1,7 +1,7 @@
 # Aneesh Ganti
 
 **CS + Math @ UIUC · Expected May 2027**  
-ML Engineer Intern @ Brunswick Corporation · Software Engineer @ Promo Pigeon · Undergraduate Researcher @ UIUC  
+ML Engineer Intern @ Brunswick Corporation · Founding Engineer @ Promo Pigeon · Undergraduate Researcher @ UIUC  
 Open to **Summer 2027 SWE / AI / ML internships**
 
 ---
