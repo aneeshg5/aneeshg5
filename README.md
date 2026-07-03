@@ -8,17 +8,17 @@ Open to **Summer 2027 SWE / AI / ML internships**
 
 ## Highlights
 
-- 🏆 NASA Human Lander Challenge: Best Presentation Award, $1,200 prize over 30+ universities
-- 🚀 Selected for **iVenture Accelerator Cohort 12** at UIUC, building Promo Pigeon this summer
-- 📡 Ran a real-world AI agent evaluation decoding **70+ encrypted CAN signals** on live marine systems, exposing helm steering, throttle, and fuel vulnerabilities
-- 🔬 Developing annotation-free instance segmentation and ViT-conditioned diffusion for robot motion planning at UIUC Vision Lab
+- 🏆 NASA Human Lander Challenge: **Best Presentation Award**, **$1,200 prize** over 30+ universities
+- 🚀 Selected for UIUC's **iVenture Accelerator Cohort 12**, building Promo Pigeon this summer
+- 📡 Evaluated agentic cryptanalysis tool decoding 70+ encrypted CAN signals on live marine systems, exposing helm vulnerabilities
+- 🔬 Built annotation-free instance segmentation and ViT-conditioned diffusion for robot motion planning at UIUC Vision Lab
 
 ---
 
-## What I'm Currently Building
+## What I'm Currently Building + Deploying
 
-- **Brunswick Corporation:** AI-driven CAN bus cryptanalysis tool for decoding encrypted marine protocols, and a TypeScript/Workbox PWA that cut on-water test analysis from 3 hours to <4s
-- **Promo Pigeon:** AI agent that automates product mockup and artwork generation directly from client emails, cutting turnaround from 2 days to 60 seconds
+- **Brunswick Corporation:** AI-driven CAN bus cryptanalysis tool for decoding encrypted marine protocols and a TypeScript/Workbox PWA that cut on-water test analysis from 3 hours to <4s
+- **Promo Pigeon:** AI agent that automates product mockup and artwork generation directly from client emails to cut turnaround from 2 days to 60s
 - **OrbitForge (personal):** Browser-based satellite orbit simulator comparing 3 Kalman filters on real satellite tracking data, live at [orbitforge.pages.dev](https://orbitforge.pages.dev)
 
 ---
