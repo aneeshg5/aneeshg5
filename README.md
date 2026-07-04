@@ -1,7 +1,7 @@
 # Aneesh Ganti
 
 **CS + Math @ UIUC · Expected May 2027**  
-ML Engineer Intern @ Brunswick Corporation · Software Engineer @ Promo Pigeon · Undergraduate Researcher @ UIUC  
+ML Engineer Intern @ Brunswick Corporation · Founding Engineer @ Promo Pigeon · Undergraduate Researcher @ UIUC  
 Open to **Summer 2027 SWE / AI / ML internships**
 
 ---
@@ -11,7 +11,7 @@ Open to **Summer 2027 SWE / AI / ML internships**
 - 🏆 NASA Human Lander Challenge: **Best Presentation Award**, **$1,200 prize** over 30+ universities
 - 🚀 Selected for UIUC's **iVenture Accelerator Cohort 12**, building [Promo Pigeon](https://www.promopigeon.net/) this summer
 - 📡 Evaluated agentic cryptanalysis tool decoding encrypted CAN signals on live marine systems, exposing helm vulnerability
-- 🔬 Built annotation-free instance segmentation and ViT-conditioned diffusion for robot motion planning at UIUC Vision Lab
+- 🔬 Built annotation-free instance segmentation and ViT-conditioned diffusion for robot motion planning at Gupta AI Lab
 
 ---
 
