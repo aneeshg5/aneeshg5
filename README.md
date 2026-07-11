@@ -17,7 +17,7 @@ Open to **Summer 2027 SWE / AI / ML internships**
 
 ## What I'm Currently Building + Deploying
 
-- **Brunswick Corporation:** AI-driven CAN bus cryptanalysis tool for decoding encrypted marine protocols and a TypeScript + Workbox PWA that cut on-water test analysis from 3 hours to <4s
+- **Brunswick Corporation:** AI-driven CAN bus cryptanalysis tool for decoding encrypted marine protocols and a TypeScript + Workbox PWA that cut on-water test analysis from hours to <15s
 - **Promo Pigeon:** AI agents that automate product mockup generation from client emails to cut turnaround from days to seconds
 - **OrbitForge (personal):** Browser-based [satellite orbit simulator](https://orbitforge.pages.dev) comparing 3 Kalman filters on real satellite tracking data
 
