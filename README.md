@@ -9,7 +9,7 @@ Open to **Summer 2027 SWE / AI / ML internships**
 ## Highlights
 
 - 🏆 NASA Human Lander Challenge: **Best Presentation Award**, **$1,200 prize** over 30+ universities
-- 🚀 Selected for UIUC's **iVenture Accelerator Cohort 12**, building [Promo Pigeon](https://www.promopigeon.net/) this summer
+- 🚀 Selected for **UIUC's iVenture Accelerator Cohort 12**, building [PromoPigeon LLC](https://www.promopigeon.net/)
 - 📡 Evaluated agentic cryptanalysis tool decoding encrypted CAN signals on live marine systems, exposing helm vulnerability
 - 🔬 Built self-supervised frameworks for annotation-free, data-scarce segmentation with SAM + DINOv3 at Gupta AI Lab
 
